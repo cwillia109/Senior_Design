@@ -46,7 +46,7 @@ void loop() {
   for (int current_pwm = 0; current_pwm < 5; current_pwm++) {
     analogWrite(pwm_out, pwms[current_pwm]);
     new_frequency = pwm_to_frequency(pwm_in.getValue());
-    if (true) {
+    if (true) { // condition used to initiate signal switch
       radio.frequency(new_frequency);
       current_frequency = new_frequency;
       Serial.println("New frequency: " + String(radio.getFrequency()));
