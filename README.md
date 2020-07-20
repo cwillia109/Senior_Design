@@ -21,15 +21,15 @@ The minimum hardware setup involves an Arduino*, Hamshield, antenna, VTX, flight
 
 ![Wiring Diagram](Media/wiring-diagram.png)
 
-# Acknowledgments
-## Team Members
+## Acknowledgments
+### Team Members
  * Bradley Spitler  - Team Lead
  * Ben Szostak - Purchasing 
  * Corey Williams - Code Maintainer
  
- ## Faculty Advisor
+### Faculty Advisor
  * Dr. Adam Schroeder
 
- ## Client Advisor
+### Client Advisor
  * Dr. Richard Becker
  * Dr. Henry Streby
