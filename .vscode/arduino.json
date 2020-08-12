@@ -1,4 +1,6 @@
 {
     "programmer": "AVR ISP",
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "sketch": "Senior_Design.ino",
+    "port": "COM5"
 }
